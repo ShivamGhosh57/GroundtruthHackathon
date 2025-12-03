@@ -1,0 +1,12 @@
+streamlit
+pandas
+requests
+langchain
+langchain-community
+langchain-huggingface
+langchain-core
+chromadb
+presidio-analyzer
+presidio-anonymizer
+spacy
+sentence-transformers
