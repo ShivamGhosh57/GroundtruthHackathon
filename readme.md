@@ -164,7 +164,7 @@ Live logs show PII being redacted before LLM processing.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/username/H002-Agent.git
+git clone https://github.com/ShivamGhosh57/GroundtruthHackathon.git
 cd H002-Agent
 ```
 
@@ -187,6 +187,6 @@ streamlit run app.py
 
 ---
 
-**Author:** Your Name  
-**Event:** Hackathon Name  
+**Author:** SHIVAM GHOSH 
+**Event:** GROUNDTRUTH 
 **Category:** AI × RAG × Enterprise Privacy  
