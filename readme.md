@@ -73,18 +73,10 @@ Detects & redacts:
 
 PII is removed *before* entering the LLM — ensuring GDPR/CCPA compliance.
 
-### 📡 3. IoT Sensor Simulation  
-Live sensor toggles:
-- Temperature  
-- Store crowd/occupancy  
-- Time of the day  
-
-→ Enables context-aware recommendations (“It’s -4°C — consider a Hot Latte!”)
-
-### 🗺️ 4. Geospatial Visualization  
+### 🗺️ 3. Geospatial Visualization  
 Parses search results → extracts coordinates → renders an **interactive map** on the dashboard.
 
-### 🔒 5. Human-in-the-Loop  
+### 🔒 4. Human-in-the-Loop  
 Refund-related intents trigger a **manual approval gate**, preventing risky LLM outputs.
 
 ---
