@@ -6,7 +6,7 @@
 ![ChromaDB](https://img.shields.io/badge/Vector%20DB-Chroma-orange?style=for-the-badge)
 ![Presidio](https://img.shields.io/badge/Security-MS%20Presidio-0078D4?style=for-the-badge)
 
-> **A context-aware Customer Experience (CX) Agent combining Enterprise RAG, IoT-driven personalization, and strict PII redaction to deliver safe, contextual, hyper-personalized retail support.**
+> **A context-aware Customer Experience (CX) Agent combining Enterprise RAG, and strict PII redaction to deliver safe, contextual, hyper-personalized retail support.**
 
 ---
 
